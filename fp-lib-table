@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "TXV_Library_Footprints")(type "KiCad")(uri "${KIPRJMOD}/TXV_Library_PCB-14c95ca2109b61e7f35d99238859cadd1ffe83ab/TXV_Library_Footprints.pretty")(options "")(descr ""))
+  (lib (name "Own_TUST_Footprints")(type "KiCad")(uri "${KIPRJMOD}/TXV_Library_PCB-14c95ca2109b61e7f35d99238859cadd1ffe83ab/Own_TUST_Footprints.pretty")(options "")(descr ""))
+)
